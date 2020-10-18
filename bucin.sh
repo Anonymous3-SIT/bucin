@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 #tools sederhana
 #bucin
-#by Mr.Tamfanx
+#by Mr.TamfanX
 clear
 
 b='\033[34;1m' #blue
