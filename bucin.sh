@@ -1,8 +1,7 @@
 #!/usr/bin/bash
 #tools sederhana
 #bucin
-#by Mr.TamfanX
-clear
+#by suamiku tercinta
 
 b='\033[34;1m' #blue
 g='\033[32;1m' #green
