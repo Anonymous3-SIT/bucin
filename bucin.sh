@@ -29,15 +29,15 @@ echo "                     :::..O              ooo"
 echo "                       ::.              oooo"
 echo "                        :"
 echo ""
-echo "              ${r}[  ${w}Hay Cantik  ${r}]"
+echo "              ${r}[  ${w}Haloo yayaa cantik  ${r}]"
 sleep 1
 echo ""
-echo "  ${r}[${w}+${r}] ${w}Siapa Nama kamu ?${c}"
+echo "  ${r}[${w}+${r}] ${w} hasby${c}"
 sleep 1
-read -p "     ┣Masukkan Nama┣==> " na;
+read -p "     ┣Yayaa┣==> " na;
 sleep 3
 echo ""
-echo "  ${r}[${w}+${r}] ${c}Hay $na Cantik"
+echo "  ${r}[${w}+${r}] ${c}Haii $na Cantik"
 sleep 3
 echo ""
 echo "  ${r}[${w}+${r}] ${b}Wajahmu bagai sinar rembulan"
